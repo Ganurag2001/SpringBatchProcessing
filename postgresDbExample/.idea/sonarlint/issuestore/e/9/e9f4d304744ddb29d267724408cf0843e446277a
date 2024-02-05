@@ -1,0 +1,10 @@
+
+k	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÞ¬½þÿÿÿÿ
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'javax.websocket.server.PathParam'.(ÊÊþ†ûÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.util.logging.LogManager'.(›½ø·þÿÿÿÿ
